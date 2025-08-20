@@ -6,7 +6,7 @@ This bookmarklet scans all images on the current webpage and allows you to check
 
 1. Add a new bookmark in your browser.
 2. Name it `EXIF Data Extractor`.
-3. Copy the contents of the `exif-data-extractor-bookmarklet.js` file and paste it as the bookmark's URL.
+3. Copy the contents of the `exif-data-extractor.js` file and paste it as the bookmark's URL.
 4. Navigate to any webpage with images.
 5. Click the bookmarklet, a panel will appear with image previews and links to check their EXIF metadata.
 
