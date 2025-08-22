@@ -9,6 +9,7 @@ This bookmarklet scans all images on the current webpage and allows you to check
 3. Copy the contents of the `exif-data-extractor.js` file and paste it as the bookmark's URL.
 4. Navigate to any webpage with images.
 5. Click the bookmarklet, a panel will appear with image previews and links to check their EXIF metadata.
+6. **Unexpected Bonus**: This bookmarklet can help you extract Facebook Cover Photos from non-public profiles
 
 ## Security and Limitations
 
@@ -23,3 +24,7 @@ Created by [Pavel Bannikov](https://github.com/paulpogoda) for [Provereno Media]
 ## License
 
 Distributed under the MIT License.
+
+## Do You Like It? 
+
+**[Support my team on Patreon](https://www.patreon.com/c/provereno)**
