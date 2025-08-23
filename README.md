@@ -19,7 +19,8 @@ This bookmarklet scans all images on the current webpage and allows you to check
 
 ## Credentials
 
-Created by [Pavel Bannikov](https://github.com/paulpogoda) for [Provereno Media](https://provereno.media)
+Created by [Pavel Bannikov](https://github.com/paulpogoda) for [Provereno Media](https://provereno.media). 
+The tool was created with the assistance of Perplexity AI.
 
 ## License
 
